@@ -1,2 +1,3 @@
-# Read list Create sorted list
-we are going to implement two versions of the Fibonacci sequence and use threads to determine how much faster the second method is.
+# Read list and create a sorted list
+We are going to create a program that is able to read a list of values, sort that list, and then output the result into a separate file. We are in 
+no way tampering with the original file. We are to create a new one.
